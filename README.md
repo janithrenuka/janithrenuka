@@ -1,4 +1,5 @@
 ### 👨‍💻Hi,  I'm Janith
+![Github stats](https://github-readme-stats.vercel.app/api?username=janithrenuka&theme=vue&show_icons=true&count_private=true&hide_title=true&)
 
 ### 🔭 I’m currently working on ...👇
 
