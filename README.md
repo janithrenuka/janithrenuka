@@ -1,5 +1,5 @@
 ### 👨‍💻Hi,  I'm Janith
-![Github stats](https://github-readme-stats.vercel.app/api?username=janithrenuka&theme=react&show_icons=true&count_private=true&hide_title=true&)
+![JanithR github stats](https://github-readme-stats.vercel.app/api?username=janithrenuka&show_icons=true&theme=radical)
 
 ### 🔭 I’m currently working on ...👇
 
@@ -10,6 +10,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=Knapsack-Wine-Problem&theme=vue)](https://github.com/janithrenuka/Knapsack-Wine-Problem) 
 
 ------------
+<summary>:zap: Most Used Languages</summary>
+<p>&nbsp;<img align="left" alt="Janith's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithrenuka" /></p>
+<br>
 
 ## 🏠 Reach me:
 [![Gmail](/images/gm.png)](mailto:janithrenuka31@gmail.com)
