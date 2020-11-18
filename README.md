@@ -1,4 +1,4 @@
-### 👨‍💻Hi,  I'm Janith
+### 👨‍💻Hi!,  I'm Janith
 ![JanithR github stats](https://github-readme-stats.vercel.app/api?username=janithrenuka&show_icons=true&theme=radical)
 
 ### 🔭 I’m currently working on ...👇
