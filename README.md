@@ -2,7 +2,7 @@
 
 ### Education
 
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+📍 **University of colombo school of computing**
 ###
 ![JanithR github stats](https://github-readme-stats.vercel.app/api?username=janithrenuka&show_icons=true&theme=radical)
 
