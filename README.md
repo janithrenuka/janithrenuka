@@ -1,4 +1,9 @@
 ### 👨‍💻Hi!,  I'm Janith
+
+### Education
+
+📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+###
 ![JanithR github stats](https://github-readme-stats.vercel.app/api?username=janithrenuka&show_icons=true&theme=radical)
 
 ### 🔭 I’m currently working on ...👇
