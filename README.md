@@ -16,8 +16,8 @@
 
 ------------
 
-<summary>:zap: <b>Most used Languages</summary>
-<p>&nbsp;<img align="left" alt="Janith's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithrenuka" /></p>
+<!--##<summary>:zap: <b>Most used Languages</summary>
+##<p>&nbsp;<img align="left" alt="Janith's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithrenuka" /></p>-->
 
 ### 🏠 Reach me:
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:janithrenuka31@gmail.com)
