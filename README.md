@@ -13,6 +13,7 @@
 ### 🏁 Finished ... 👇
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=ci-bootstrap-website&theme=react)](https://github.com/janithrenuka/ci-bootstrap-website) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=Knapsack-Wine-Problem&theme=radical)](https://github.com/janithrenuka/Knapsack-Wine-Problem) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=simple-new-year-countdown&theme=radical)](https://github.com/janithrenuka/simple-new-year-countdown) 
 
 ------------
 
