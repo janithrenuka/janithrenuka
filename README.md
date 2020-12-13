@@ -4,7 +4,13 @@
 
 📍 **University of colombo school of computing**
 ###
-![JanithR github stats](https://github-readme-stats.vercel.app/api?username=janithrenuka&show_icons=true&theme=radical)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=janithrenuka&show_icons=true&theme=radical"> 
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithrenuka&layout=compact&theme=dracula"> 
+</p>
 
 ### 🔭 I’m currently working on ...👇
 
