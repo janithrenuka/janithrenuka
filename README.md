@@ -27,6 +27,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=ci-bootstrap-website&theme=react)](https://github.com/janithrenuka/ci-bootstrap-website) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=simple-calculator&theme=radical)](https://github.com/janithrenuka/simple-calculator) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=simple-new-year-countdown&theme=radical)](https://github.com/janithrenuka/simple-new-year-countdown) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=simple-calculator&theme=radical)](https://github.com/UCSC-group17-secondyear/IMS_system) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=IMS_system&theme=react)](https://github.com/UCSC-group17-secondyear/IMS_system) 
 
 
