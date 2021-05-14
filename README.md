@@ -22,7 +22,6 @@
 ### 🔭 I’m currently working on ...👇
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=pos-system&theme=radical)](https://github.com/janithrenuka/pos-system)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=Brick-bounce-unity-2D&theme=react)](https://github.com/janithrenuka/Brick-bounce-unity-2D)
 
 ### 🏁 Finished ... 👇
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=ci-bootstrap-website&theme=react)](https://github.com/janithrenuka/ci-bootstrap-website) 
