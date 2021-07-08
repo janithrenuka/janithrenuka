@@ -22,7 +22,7 @@
 ### 🔭 I’m currently working on ...👇
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=smart_ride_app&theme=radical)](https://github.com/Group-29-3rd-Year/smart_ride_app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=smart_ride_web&theme=react)](https://github.com/Group-29-3rd-Year/smart_ride_web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=smart_ride_web_admin&theme=react)](https://github.com/Group-29-3rd-Year/smart_ride_web_admin)
 
 ### 🏁 Finished ... 👇
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=ci-bootstrap-website&theme=react)](https://github.com/janithrenuka/ci-bootstrap-website) 
