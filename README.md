@@ -23,6 +23,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=smart_ride_app&theme=radical)](https://github.com/Group-29-3rd-Year/smart_ride_app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=smart_ride_web_admin&theme=react)](https://github.com/Group-29-3rd-Year/smart_ride_web_admin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=smart_ride_backend&theme=react)](https://github.com/Group-29-3rd-Year/smart_ride_backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=smart_ride_web_conductor&theme=radical)](https://github.com/Group-29-3rd-Year/smart_ride_web_conductor)
 
 ### 🏁 Finished ... 👇
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janithrenuka&repo=ci-bootstrap-website&theme=react)](https://github.com/janithrenuka/ci-bootstrap-website) 
